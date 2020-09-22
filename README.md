@@ -1,4 +1,4 @@
-### Hi there 👋
+### TOKYONTH
 
 <!--
 **Tokyonth/Tokyonth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tokyonth&show_icons=true)](https://github.com/Tokyonth)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyonth)](https://github.com/Tokyonth)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyonth&layout=compact)](https://github.com/Tokyonth)
